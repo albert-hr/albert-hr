@@ -1,16 +1,81 @@
-## Hi there 👋
+# 👩🏻‍💻 Albert Henrique Rodrigues de Almeida
 
-<!--
-**alberthr-dev/alberthr-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Desenvolvedor Backend (Em Formação)*
 
-Here are some ideas to get you started:
+Olá! 
+Me chamo Albert Henrique Rodrigues de Almeida, atualmente tenho 19 anos e sou natural de São Paulo. Concluí o Ensino Médio integrado ao curso técnico em Administração pela ETEC de Ferraz de Vasconcelos. Atualmente, curso Análise e Desenvolvimento de Sistemas na FATEC Ferraz de Vasconcelos. Sou apaixonado por tecnologia e estou em constante desenvolvimento para sempre aprender mais!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌐 Conecte-se Comigo
+
+<p align="left">
+    <a href="https://www.linkedin.com/in/albert-henrique-b9453b358">
+        <img 
+            alt="LinkedIn" 
+            title="Conecte-se no LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-Me%20Adicione-0077B5?style=for-the-badge&logo=linkedin"
+        />
+    </a>
+    <a href="https://www.instagram.com/albert_2s_">
+        <img 
+            alt="Instagram" 
+            title="Me siga no Instagram" 
+            src="https://img.shields.io/badge/instagram-Siga--me-purple?style=for-the-badge&logo=instagram"
+        />
+    </a>
+    <a href="https://github.com/alberthr-dev?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/alberthr-dev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
+        />
+    </a>
+    <a href="https://github.com/alberthr-dev?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/alberthr-dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
+
+### 🤖 Linguagens e Tecnologias
+
+**💻 Backend & Linguagens Principais**
+
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+**🌐 Web & Frontend**
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+**⚙️ Ferramentas**
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+
+<br/>
+
+### 📊 Estatísticas do GitHub
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=alberthr-dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+  <img 
+    align="left" 
+    alt="GitHub Top Languages" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alberthr-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
