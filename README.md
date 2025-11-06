@@ -66,7 +66,7 @@ Me chamo Albert Henrique Rodrigues de Almeida, atualmente tenho 19 anos e sou na
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+/><br/>
 
 **🌐 Web & Frontend**
 
@@ -93,7 +93,7 @@ Me chamo Albert Henrique Rodrigues de Almeida, atualmente tenho 19 anos e sou na
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+/><br/>
 
 **⚙️ Ferramentas**
 
