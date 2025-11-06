@@ -95,13 +95,6 @@ Me chamo Albert Henrique Rodrigues de Almeida, atualmente tenho 19 anos e sou na
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 /><br/>
 
-**⚙️ Ferramentas**
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-
-<br/>
-
 ### 📊 Estatísticas do GitHub
 
 <p>
